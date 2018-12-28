@@ -1,0 +1,10 @@
+E:\work\workplace\vs2017\winform\LYDLibs\Common\bin\Debug\Common.dll
+E:\work\workplace\vs2017\winform\LYDLibs\Common\bin\Debug\Common.pdb
+E:\work\workplace\vs2017\winform\LYDLibs\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\work\workplace\vs2017\winform\LYDLibs\Common\bin\Debug\Newtonsoft.Json.dll
+E:\work\workplace\vs2017\winform\LYDLibs\Common\bin\Debug\Newtonsoft.Json.xml
+E:\work\workplace\vs2017\winform\LYDLibs\Common\obj\Debug\Common.csproj.CopyComplete
+E:\work\workplace\vs2017\winform\LYDLibs\Release\LYDLib.Common.dll
+E:\work\workplace\vs2017\winform\LYDLibs\Release\LYDLib.Common.pdb
+E:\work\workplace\vs2017\winform\LYDLibs\Common\obj\Debug\LYDLib.Common.dll
+E:\work\workplace\vs2017\winform\LYDLibs\Common\obj\Debug\LYDLib.Common.pdb

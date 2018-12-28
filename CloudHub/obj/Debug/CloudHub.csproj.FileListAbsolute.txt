@@ -1,0 +1,13 @@
+E:\work\workplace\vs2017\winform\LYDLibs\CloudHub\obj\Debug\CloudHub.csprojAssemblyReference.cache
+E:\work\workplace\vs2017\winform\LYDLibs\CloudHub\obj\Debug\CloudHub.csproj.CoreCompileInputs.cache
+E:\work\workplace\vs2017\winform\LYDLibs\CloudHub\bin\Debug\CloudHub.dll
+E:\work\workplace\vs2017\winform\LYDLibs\CloudHub\bin\Debug\CloudHub.pdb
+E:\work\workplace\vs2017\winform\LYDLibs\CloudHub\bin\Debug\Common.dll
+E:\work\workplace\vs2017\winform\LYDLibs\CloudHub\bin\Debug\Newtonsoft.Json.dll
+E:\work\workplace\vs2017\winform\LYDLibs\CloudHub\bin\Debug\Common.pdb
+E:\work\workplace\vs2017\winform\LYDLibs\CloudHub\bin\Debug\Newtonsoft.Json.xml
+E:\work\workplace\vs2017\winform\LYDLibs\CloudHub\obj\Debug\CloudHub.csproj.CopyComplete
+E:\work\workplace\vs2017\winform\LYDLibs\Release\LYDLib.CloudHub.dll
+E:\work\workplace\vs2017\winform\LYDLibs\Release\LYDLib.CloudHub.pdb
+E:\work\workplace\vs2017\winform\LYDLibs\CloudHub\obj\Debug\LYDLib.CloudHub.dll
+E:\work\workplace\vs2017\winform\LYDLibs\CloudHub\obj\Debug\LYDLib.CloudHub.pdb
